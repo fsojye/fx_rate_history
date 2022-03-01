@@ -1,0 +1,3 @@
+[submodule "fx_rate_history_backend"]
+	path = fx_rate_history_backend
+	url = https://github.com/fsojye/fx_rate_history_backend.git
